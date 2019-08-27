@@ -1,0 +1,1 @@
+﻿сокеты AF_UNIX DGRAM test
